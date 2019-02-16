@@ -1,0 +1,14 @@
+.vscode
+.DS_store
+node_modules
+transpiled
+dist/
+coverage/
+!node/test/coverage/
+node/test/coverage/tmp/
+jspm_packages/
+npm-debug.log
+testTemp/
+nodeTemp/
+.project
+.settings/
